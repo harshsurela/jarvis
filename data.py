@@ -9,8 +9,8 @@ import os
 from email.message import EmailMessage
 email_address="Your email"
 password_of_email="Your Password"
-stark="jarvis"
-mypass=7943
+stark="username"
+mypass="password"
 chrome ="C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s"
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
