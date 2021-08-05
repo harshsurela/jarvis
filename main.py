@@ -6,7 +6,7 @@ import getpass
 from data import wishMe, speak, takeCommand, stark, mypass, get_email_info, datetime, chrome
 if __name__ == "__main__":
     c = 0
-    speak("WELCOME TO STARK INDUSTRIES ,  please enter username and Password to get access of jarvis")
+    speak("WELCOME TO STARK INDUSTRIES ,  please enter Username and Password to get access of jarvis")
     while c != 3:
         print("Enter Your Username: ")
         name = str(input())
